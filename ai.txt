@@ -1,0 +1,15 @@
+# Shipdesk
+
+> Shipdesk builds small, practical software for small businesses. Two products:
+
+## Shipdesk Review Replies
+AI drafts a reply to every Google review in the business owner's voice. Positive replies can auto-post, and negative replies wait for one-tap approval. Starter $29/mo (1 location), Pro $59/mo. 14-day free trial. Status: Google Business Profile connection pending approval; onboarding in batches.
+- Landing: https://getshipdesk.com/review-replies.html
+- Free review reply generator (no signup): https://getshipdesk.com/review-reply-demo.html
+- Starter trial: https://buy.stripe.com/28E4gBb1wfXX7MseAl9EI03
+- Pro trial: https://buy.stripe.com/dRmfZjglQ6nnc2Idwh9EI04
+
+## Shipdesk Spark
+A custom micro web app (tool, calculator, form, or small internal app) built and shipped for a flat $79.
+- Home: https://getshipdesk.com/
+- Buy: https://buy.stripe.com/eVq00lglQaDD9UA0Jv9EI00
